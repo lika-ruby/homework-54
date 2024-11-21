@@ -107,4 +107,4 @@ const allSkills = people.reduce(
   },
   []
 );
-console.log(allSkills);
+console.log(allSkills.sort());
